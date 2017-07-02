@@ -10,7 +10,7 @@ project.ext.supportLib = "24.1.1"
 
 android {
     compileSdkVersion 24
-    buildToolsVersion "24.0.1"
+    buildToolsVersion '25.0.0'
     defaultConfig {
         applicationId "org.horaapps.leafpic"
         minSdkVersion 19
